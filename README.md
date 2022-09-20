@@ -1,4 +1,4 @@
-## react-native-custom-slider
+## rn-custom-slider
 
 
 A pure JavaScript `<Slider>` component for react-native. This is still very much a work
@@ -15,7 +15,7 @@ From react native version 0.69, they removed PropTypes from react-native, becaus
 ## Install
 
 ```shell
-npm i --save react-native-custom-slider
+npm i --save rn-custom-slider
 ```
 
 **Note:** I try to maintain backward compatibility of this component with previous versions of React Native, but due to the nature of the platform, and the existence of breaking changes between releases, it is possible that you need to use a specific version of this component to support the exact version of React Native you are using. See the following table:
@@ -32,7 +32,7 @@ npm i --save react-native-custom-slider
 
 ```jsx
 import React from "react";
-import Slider from "react-native-custom-slider";
+import Slider from "rn-custom-slider";
 import { AppRegistry, StyleSheet, View, Text } from "react-native";
 
 class SliderExample extends React.Component {

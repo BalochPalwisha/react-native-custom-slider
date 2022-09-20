@@ -1,4 +1,4 @@
-declare module 'react-native-custom-slider' {
+declare module 'rn-custom-slider' {
   import { ComponentClass, PureComponent } from 'react'
 
   import {

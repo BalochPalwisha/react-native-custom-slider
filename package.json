@@ -1,5 +1,5 @@
 {
-  "name": "react-native-custom-slider",
+  "name": "rn-custom-slider",
   "version": "0.0.1",
   "description": "A pure JavaScript <Slider /> component for react-native",
   "main": "lib/Slider.js",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:BalochPalwisha/react-native-custom-slider.git"
+    "url": "git@github.com:BalochPalwisha/rn-custom-slider.git"
   },
   "dependencies": {
     "deprecated-react-native-prop-types": "^2.3.0",
